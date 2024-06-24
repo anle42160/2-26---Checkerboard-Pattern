@@ -1,3 +1,6 @@
+// 2.26.) Display the following checkerboard pattern with eight output statements, then display the same pattern using as few statements as possible.
+// Programmer: Anna Le
+
 #include <iostream>
 using namespace std;
 
